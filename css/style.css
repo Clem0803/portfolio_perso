@@ -109,6 +109,12 @@ li a { /*Design bouton en-tête*/
     color: #fff;
     background-color: #00faaa;
 }
+.change-lang{
+    position: absolute;
+    top: 4px;
+    right: 8px;
+    font-size: 13px;
+}
 
 /*Mise en forme du hero*/
 

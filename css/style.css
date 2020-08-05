@@ -114,6 +114,7 @@ li a { /*Design bouton en-tête*/
     top: 4px;
     right: 8px;
     font-size: 13px;
+    text-align: right;
 }
 .lien-lang{
     text-decoration: none;

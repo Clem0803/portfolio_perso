@@ -115,6 +115,10 @@ li a { /*Design bouton en-tête*/
     right: 8px;
     font-size: 13px;
 }
+.lien-lang{
+    text-decoration: none;
+    color: #00faaa;
+}
 
 /*Mise en forme du hero*/
 

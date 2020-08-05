@@ -267,6 +267,7 @@ figure{ /*Ajout marge bott au bloc contenant l'image illustrant une compétence*
 .lien-site{ /*Design du texte du bouton*/
     text-decoration: none;
     color:inherit;
+    display: inline-block;
 }
 
 /*Mise en forme du footer*/
